@@ -1,0 +1,6 @@
+symbol,asset_class,quote_currency
+EURUSD,Forex,USD
+USDJPY,Forex,JPY
+XAUUSD,Metal,USD
+BTCUSD,Crypto,USD
+US100,Stock Index,USD
